@@ -24,6 +24,11 @@
     "db-pull": "supabase db remote commit",
     "db-push": "supabase db push",
     "test": "jest"
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next export"
+}
+
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.18.0",
